@@ -1,0 +1,19 @@
+{
+  "name": "kcache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KCreate/kcache.git"
+  },
+  "author": "Leonard Schuetz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KCreate/kcache/issues"
+  },
+  "homepage": "https://github.com/KCreate/kcache#readme"
+}
